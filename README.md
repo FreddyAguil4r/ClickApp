@@ -1,6 +1,7 @@
 # ClickApp
 Juego para hacer click en pantalla
 
+- Data Binding
 - ViewModel & ViewModelFactory
 - Safe Args
 - Live Data & Observers
