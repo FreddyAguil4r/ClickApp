@@ -1,5 +1,5 @@
 # ClickApp
-Juego para hacer click en pantalla
+Game to earn points by tapping the screen.
 
 - Data Binding
 - ViewModel & ViewModelFactory
